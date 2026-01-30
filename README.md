@@ -96,8 +96,6 @@
 
 [https://ipv4.gdt.qq.com/get_client_ip](#address-2.25)
 
-[https://ipv4.getip.cc](https://ipv4.getip.cc)   [https://ipv6.getip.cc](https://ipv6.getip.cc)
-
 3.只可通过IP查询信息
 
 [http://opendata.baidu.com/api.php?co=&resource_id=6006&oe=utf8&query=](#address-3.1) 
@@ -2284,6 +2282,8 @@ curl curlmyip.net
 curl ipcalf.com
 curl checkip.amazonaws.com
 curl https://myexternalip.com/json
+curl https://ipv4.getip.cc
+curl http://ipv6.getip.cc
 ```
 
 示例结果：
